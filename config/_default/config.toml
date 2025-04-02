@@ -1,0 +1,24 @@
+# Change baseurl before deploy
+baseurl = "https://mapleblanc46.giuhub.io/"
+languageCode = "ja"
+title = "椛の独り言"
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
+defaultContentLanguage = "en"
+
+# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
+# This will make .Summary and .WordCount behave correctly for CJK languages.
+hasCJKLanguage = true
+
+# Change it to your Disqus shortname before using
+disqusShortname = "椛の日々の学びや思い出、戯言などなどを吐き出していく場所"
+
+# Change publish directory from public to docs
+publishDir = "docs"
+
+# add canoifyurls to rendering on GitHub pages
+canonifyurls = true
+
+[pagination]
+pagerSize = 5
