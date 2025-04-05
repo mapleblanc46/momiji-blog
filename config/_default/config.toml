@@ -12,7 +12,7 @@ defaultContentLanguage = "en"
 hasCJKLanguage = true
 
 # Change it to your Disqus shortname before using
-disqusShortname = "椛の日々の学びや思い出、戯言などなどを吐き出していく場所"
+disqusShortname = "椛の日々の学びや思い出、戯言などなどを徒然なるままに吐き出す場所"
 
 # Change publish directory from public to docs
 publishDir = "docs"

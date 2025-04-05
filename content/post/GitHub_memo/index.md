@@ -1,6 +1,6 @@
 +++
 date = '2025-04-01T12:02:14+09:00'
-draft = true
+draft = false
 title = 'GitHub_memo'
 +++
 ## Git/Githubの備忘録
