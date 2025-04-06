@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/p/github_memo/</loc>
+    <loc>https://mapleblanc46.giuhub.io/p/github_memo/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mapleblanc46.giuhub.io/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mapleblanc46.giuhub.io/categories/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/engineering/</loc>
+    <loc>https://mapleblanc46.giuhub.io/tags/engineering/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/enginnering/</loc>
+    <loc>https://mapleblanc46.giuhub.io/categories/enginnering/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/git/</loc>
+    <loc>https://mapleblanc46.giuhub.io/tags/git/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/github/</loc>
+    <loc>https://mapleblanc46.giuhub.io/tags/github/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://mapleblanc46.giuhub.io/post/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mapleblanc46.giuhub.io/tags/</loc>
     <lastmod>2025-04-01T12:02:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://mapleblanc46.giuhub.io/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://mapleblanc46.giuhub.io/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/example-category/</loc>
+    <loc>https://mapleblanc46.giuhub.io/categories/example-category/</loc>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://mapleblanc46.giuhub.io/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://mapleblanc46.giuhub.io/search/</loc>
   </url>
 </urlset>

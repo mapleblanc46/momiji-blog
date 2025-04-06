@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Engineering on 椛の独り言</title>
-        <link>http://localhost:1313/tags/engineering/</link>
+        <link>https://mapleblanc46.giuhub.io/tags/engineering/</link>
         <description>Recent content in Engineering on 椛の独り言</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Tue, 01 Apr 2025 12:02:14 +0900</lastBuildDate><atom:link href="http://localhost:1313/tags/engineering/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 01 Apr 2025 12:02:14 +0900</lastBuildDate><atom:link href="https://mapleblanc46.giuhub.io/tags/engineering/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub_memo</title>
-        <link>http://localhost:1313/p/github_memo/</link>
+        <link>https://mapleblanc46.giuhub.io/p/github_memo/</link>
         <pubDate>Tue, 01 Apr 2025 12:02:14 +0900</pubDate>
         
-        <guid>http://localhost:1313/p/github_memo/</guid>
+        <guid>https://mapleblanc46.giuhub.io/p/github_memo/</guid>
         <description>&lt;h2 id=&#34;gitgithubの備忘録&#34;&gt;Git/Githubの備忘録
 &lt;/h2&gt;&lt;h3 id=&#34;local-to-remote&#34;&gt;Local to Remote
 &lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
