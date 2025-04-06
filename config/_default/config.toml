@@ -18,7 +18,7 @@ disqusShortname = "椛の日々の学びや思い出、戯言などなどを徒�
 publishDir = "docs"
 
 # add canoifyurls to rendering on GitHub pages
-canonifyurls = true
+# canonifyurls = true
 
 [pagination]
 pagerSize = 5
