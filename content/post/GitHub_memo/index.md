@@ -1,8 +1,19 @@
-+++
-date = '2025-04-01T12:02:14+09:00'
-draft = false
-title = 'GitHub_memo'
-+++
+---
+title: GitHub_memo
+description: My first post on my blog!
+slug: GitHub_memo
+date: 2025-04-01T12:02:14+09:00
+image: 
+categories:
+    - Enginnering
+tags:
+    - Engineering
+    - git
+    - GitHub
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+draft: false
+---
+
 ## Git/Githubの備忘録
 
 ### Local to Remote

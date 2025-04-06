@@ -5,7 +5,16 @@
         <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on 椛の独り言</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja</language><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>ja</language>
+        <lastBuildDate>Tue, 01 Apr 2025 12:02:14 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Enginnering</title>
+        <link>http://localhost:1313/categories/enginnering/</link>
+        <pubDate>Tue, 01 Apr 2025 12:02:14 +0900</pubDate>
+        
+        <guid>http://localhost:1313/categories/enginnering/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Example Category</title>
         <link>http://localhost:1313/categories/example-category/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
